@@ -368,8 +368,8 @@ npm start
 
 
 ### 📧 Get in Touch
-- **Email**: arhaan.ali2004@gmail.com
-- **GitHub**: [@ArhaanAli04](https://github.com/ArhaanAli04)
+- **Email**: ajinkya123dahiwal@gmail.com
+- **GitHub**: [@AjinkyaDahiwal](https://github.com/AjinkyaDahiwal)
 
 ### 🔗 Project Links
 
