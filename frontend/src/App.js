@@ -14,6 +14,7 @@ function AppRoutes() {
   return (
     <Routes>
       <Route path="/login" element={<LoginPage />} />
+      
       <Route path="/register" element={<RegisterPage />} />
 
        {/* ← ADD OAUTH CALLBACK ROUTE */}
