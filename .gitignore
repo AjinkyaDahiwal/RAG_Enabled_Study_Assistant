@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data / indexes / uploads
+uploads/
+data/
+*.db
+*.bin
+src/data/*.json
+src/data/*.db
+src/data/*.faiss
+# Environment / secrets
+.env
+*.log
+src/logs/
+
+.env.local
+*.env
